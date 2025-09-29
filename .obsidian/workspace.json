@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5cf6165fa4607bf",
+        "id": "7378c78a08342301",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe145bd966e3285",
+            "id": "50af73e80bab1759",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "黑马点评"
-            }
-          },
-          {
-            "id": "ce2381a90e960264",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://blog.csdn.net/weixin_52574640/article/details/129998255",
-                "title": "黑马Redis基础篇笔记_黑马redis笔记-CSDN博客",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "黑马Redis基础篇笔记_黑马redis笔记-CSDN博客"
             }
           }
         ]
@@ -92,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "60a7aef3ef9af512",
@@ -108,17 +95,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "弃坑notion 迎接obsidian第一天（2025.9.29）.md",
-                "collapseAll": false,
+                "file": "黑马点评.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "弃坑notion 迎接obsidian第一天（2025.9.29） 的反向链接列表"
+              "title": "黑马点评 的反向链接列表"
             }
           },
           {
@@ -169,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,12 +172,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4fe145bd966e3285",
+  "active": "50af73e80bab1759",
   "lastOpenFiles": [
-    "Pasted image 20250929162457.png",
     "黑马点评.md",
+    "test.md",
+    "Pasted image 20250929162457.png",
     "未命名.base",
-    "未命名.md",
     "未命名",
     "Notion"
   ]
