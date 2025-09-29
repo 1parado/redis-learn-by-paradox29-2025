@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "e48ec67c017b2d5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5cf6165fa4607bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe145bd966e3285",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "黑马点评.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "黑马点评"
+            }
+          },
+          {
+            "id": "ce2381a90e960264",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://blog.csdn.net/weixin_52574640/article/details/129998255",
+                "title": "黑马Redis基础篇笔记_黑马redis笔记-CSDN博客",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "黑马Redis基础篇笔记_黑马redis笔记-CSDN博客"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f624ebccb2c358d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc0c3a6adf28c7c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4705ffca83de3eaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0be03bda65e6e138",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "cc5c1cb72c5d80eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "60a7aef3ef9af512",
+    "type": "split",
+    "children": [
+      {
+        "id": "9751f3ecdad22f69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eddbc4c7fd1ac638",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "弃坑notion 迎接obsidian第一天（2025.9.29）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "弃坑notion 迎接obsidian第一天（2025.9.29） 的反向链接列表"
+            }
+          },
+          {
+            "id": "cfcbad8bbd6ef20f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "弃坑notion 迎接obsidian第一天（2025.9.29）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "弃坑notion 迎接obsidian第一天（2025.9.29） 的出链列表"
+            }
+          },
+          {
+            "id": "94b8f0da63c5d64d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e4a50c41b7c06de7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "弃坑notion 迎接obsidian第一天（2025.9.29）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "弃坑notion 迎接obsidian第一天（2025.9.29） 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "4fe145bd966e3285",
+  "lastOpenFiles": [
+    "未命名.base",
+    "黑马点评.md",
+    "未命名.md",
+    "未命名",
+    "Notion"
+  ]
+}
