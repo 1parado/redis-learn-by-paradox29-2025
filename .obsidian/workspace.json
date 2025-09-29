@@ -181,13 +181,15 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "4fe145bd966e3285",
   "lastOpenFiles": [
-    "未命名.base",
+    "Pasted image 20250929162457.png",
     "黑马点评.md",
+    "未命名.base",
     "未命名.md",
     "未命名",
     "Notion"
